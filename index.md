@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+## OSCILAB
 
-You can use the [editor on GitHub](https://github.com/urubumarinka/OSCILAB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Page for selling and demonstration of the most interesting plugins ever made for Ableton Live
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CREATORS
 
-### Markdown
+Finis Fouchinis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
+
+
+
+
+
+
+
+
 
 # Header 1
 ## Header 2
